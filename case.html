@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Case — IVUS Case Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="index.html">Case<span>IVUS</span></a>
+    <span class="site-tagline">Thư viện case lâm sàng IVUS / NIRS · Sang thương mạch vành</span>
+  </div>
+</header>
+
+<div id="case-root">
+  <section class="case-header">
+    <div class="wrap">
+      <p class="breadcrumb" id="breadcrumb"></p>
+      <h1 id="case-title">Đang tải…</h1>
+      <p id="case-summary" style="color:var(--text-muted);max-width:60ch;"></p>
+      <div class="case-meta-row" id="case-meta"></div>
+    </div>
+  </section>
+
+  <section class="case-body">
+    <div class="wrap" style="display:grid;grid-template-columns:1fr;gap:48px;">
+      <div style="display:grid;grid-template-columns:1fr;gap:48px;" class="case-body-inner">
+
+        <div class="case-media">
+          <h2>Hình ảnh IVUS / NIRS</h2>
+          <div id="image-gallery" class="image-gallery"></div>
+          <div id="video-wrap"></div>
+        </div>
+
+        <div class="case-notes">
+          <h2>Nhận định</h2>
+          <ul id="findings" class="findings"></ul>
+          <p id="case-notes-text" style="margin-top:18px;"></p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Thư viện case lâm sàng — tài liệu tham khảo giáo dục, không thay thế chẩn đoán lâm sàng.</span>
+    <span>Hình ảnh đã được ẩn danh</span>
+  </div>
+</footer>
+
+<style>
+  @media (min-width: 900px) {
+    .case-body-inner { grid-template-columns: 1.4fr 1fr !important; align-items: start; }
+  }
+</style>
+
+<script src="assets/js/app.js"></script>
+<script>
+  renderCasePage();
+</script>
+</body>
+</html>

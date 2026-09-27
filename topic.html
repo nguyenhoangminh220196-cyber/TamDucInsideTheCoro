@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Chủ đề — IVUS Case Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="index.html">Case<span>IVUS</span></a>
+    <span class="site-tagline">Thư viện case lâm sàng IVUS / NIRS · Sang thương mạch vành</span>
+  </div>
+</header>
+
+<section class="hero" style="padding:56px 0 44px;">
+  <div class="wrap">
+    <p class="hero-kicker"><a href="index.html" style="color:inherit">← Thư viện case</a></p>
+    <h1 id="topic-title" style="max-width:none;">Chủ đề</h1>
+    <p id="topic-desc"></p>
+  </div>
+</section>
+
+<section class="topics" style="padding-top:48px;">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Các case</h2>
+      <span class="count" id="topic-count"></span>
+    </div>
+    <div id="case-grid" class="case-grid"></div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Thư viện case lâm sàng — tài liệu tham khảo giáo dục, không thay thế chẩn đoán lâm sàng.</span>
+    <span>Hình ảnh đã được ẩn danh</span>
+  </div>
+</footer>
+
+<script src="assets/js/app.js"></script>
+<script>
+  renderTopicPage();
+</script>
+</body>
+</html>
