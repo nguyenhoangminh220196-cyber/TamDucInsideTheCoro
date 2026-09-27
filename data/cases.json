@@ -1,0 +1,137 @@
+[
+  {
+    "id": "lm-001",
+    "topic": "than-chung",
+    "title": "Hẹp thân chung đoạn xa, phân loại theo IVUS",
+    "summary": "Đánh giá MLA thân chung và mở rộng qua chỗ chia đôi LAD/LCx bằng IVUS trước can thiệp.",
+    "age_sex": "68 tuổi, nam",
+    "vessel": "Thân chung ĐMV trái (LM)",
+    "modality": "IVUS",
+    "cover_image": "https://res.cloudinary.com/demo/image/upload/w_800,q_auto/sample.jpg",
+    "images": [
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg",
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg"
+    ],
+    "youtube_id": "",
+    "findings": [
+      { "label": "MLA thân chung", "text": "4.2 mm² tại đoạn xa, sát chỗ chia đôi" },
+      { "label": "Đặc điểm mảng xơ vữa", "text": "Mảng xơ vữa hỗn hợp, không calci hóa nặng, lệch tâm" },
+      { "label": "Chiến lược", "text": "Đặt stent single-stent cross-over, kissing balloon sau cùng" }
+    ],
+    "notes": "Case minh họa cách IVUS xác định điểm cắt MLA để quyết định có cần can thiệp thân chung hay không, thay vì chỉ dựa vào angio."
+  },
+  {
+    "id": "isr-001",
+    "topic": "tai-hep-trong-stent",
+    "title": "Tái hẹp trong stent do tăng sinh nội mạc lan tỏa",
+    "summary": "Phân tích cơ chế tái hẹp bằng IVUS: tăng sinh mô nội mạc so với stent giãn dưới mức tối ưu.",
+    "age_sex": "59 tuổi, nữ",
+    "vessel": "LAD đoạn giữa",
+    "modality": "IVUS",
+    "cover_image": "https://res.cloudinary.com/demo/image/upload/w_800,q_auto/sample.jpg",
+    "images": [
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg"
+    ],
+    "youtube_id": "",
+    "findings": [
+      { "label": "Cơ chế", "text": "Tăng sinh mô nội mạc lan tỏa, stent nở đủ tại thời điểm đặt ban đầu" },
+      { "label": "MSA hiện tại", "text": "2.1 mm², giảm so với MSA sau đặt stent ban đầu" }
+    ],
+    "notes": "So sánh với case tái hẹp do stent giãn dưới mức để làm rõ khác biệt xử trí."
+  },
+  {
+    "id": "calc-001",
+    "topic": "calci-hoa",
+    "title": "Calci hóa vòng cung rộng (>270°) — cân nhắc chuẩn bị sang thương",
+    "summary": "IVUS đo cung calci hóa và độ dày để quyết định có cần khoan cắt mảng xơ vữa trước nong bóng.",
+    "age_sex": "72 tuổi, nam",
+    "vessel": "RCA đoạn giữa",
+    "modality": "IVUS",
+    "cover_image": "https://res.cloudinary.com/demo/image/upload/w_800,q_auto/sample.jpg",
+    "images": [
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg"
+    ],
+    "youtube_id": "",
+    "findings": [
+      { "label": "Cung calci hóa", "text": "~310°, chiều dài 18 mm" },
+      { "label": "Quyết định", "text": "Khoan cắt mảng xơ vữa (rotational atherectomy) trước khi đặt stent" }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "plaque-001",
+    "topic": "mang-xo-vua-khong-on-dinh",
+    "title": "Mảng xơ vữa dễ vỡ trên NIRS-IVUS, chỉ số lipid cao",
+    "summary": "Kết hợp NIRS và IVUS xác định lõi lipid lớn (maxLCBI4mm cao) tại vị trí không hẹp đáng kể.",
+    "age_sex": "54 tuổi, nam",
+    "vessel": "LAD đoạn gần",
+    "modality": "NIRS-IVUS",
+    "cover_image": "https://res.cloudinary.com/demo/image/upload/w_800,q_auto/sample.jpg",
+    "images": [
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg"
+    ],
+    "youtube_id": "",
+    "findings": [
+      { "label": "maxLCBI4mm", "text": "612 — nguy cơ cao theo ngưỡng nghiên cứu LRP" },
+      { "label": "Hẹp trên angio", "text": "~40%, không đủ tiêu chuẩn can thiệp theo hình thái học đơn thuần" }
+    ],
+    "notes": "Case bàn luận về vai trò của NIRS trong nhận diện mảng xơ vữa nguy cơ cao chưa gây hẹp nặng."
+  },
+  {
+    "id": "bif-001",
+    "topic": "cho-chia-doi",
+    "title": "Sang thương chỗ chia đôi LAD/D1, chiến lược provisional stenting",
+    "summary": "IVUS đánh giá góc chia đôi và phân bố mảng xơ vữa để chọn kỹ thuật một stent hay hai stent.",
+    "age_sex": "61 tuổi, nam",
+    "vessel": "LAD/D1 (Medina 1,1,0)",
+    "modality": "IVUS",
+    "cover_image": "https://res.cloudinary.com/demo/image/upload/w_800,q_auto/sample.jpg",
+    "images": [
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg"
+    ],
+    "youtube_id": "",
+    "findings": [
+      { "label": "Phân loại Medina", "text": "1,1,0" },
+      { "label": "Chiến lược", "text": "Provisional single-stent qua LAD, kissing balloon nếu cần" }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "cto-001",
+    "topic": "cto",
+    "title": "Tắc mạn tính RCA — IVUS hỗ trợ đưa dây dẫn vào lòng thật",
+    "summary": "Sử dụng IVUS xác định lại lòng thật sau khi dây dẫn đi vào khoang dưới nội mạc.",
+    "age_sex": "65 tuổi, nam",
+    "vessel": "RCA đoạn giữa, tắc mạn tính ~8 tháng",
+    "modality": "IVUS",
+    "cover_image": "https://res.cloudinary.com/demo/image/upload/w_800,q_auto/sample.jpg",
+    "images": [
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg"
+    ],
+    "youtube_id": "",
+    "findings": [
+      { "label": "Kỹ thuật", "text": "IVUS-guided re-entry sau khi antegrade dissection re-entry ban đầu thất bại" },
+      { "label": "Kết quả", "text": "Tái lập dòng chảy TIMI 3 sau đặt stent" }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sizing-001",
+    "topic": "kich-thuoc-stent",
+    "title": "Chọn kích thước stent theo đường kính lòng mạch tham chiếu trên IVUS",
+    "summary": "So sánh đo đường kính mạch máu bằng angio và IVUS để tránh chọn stent dưới cỡ.",
+    "age_sex": "57 tuổi, nữ",
+    "vessel": "LCx đoạn gần",
+    "modality": "IVUS",
+    "cover_image": "https://res.cloudinary.com/demo/image/upload/w_800,q_auto/sample.jpg",
+    "images": [
+      "https://res.cloudinary.com/demo/image/upload/w_1200,q_auto/sample.jpg"
+    ],
+    "youtube_id": "",
+    "findings": [
+      { "label": "Đường kính tham chiếu (angio)", "text": "2.75 mm (ước lượng bằng mắt)" },
+      { "label": "Đường kính tham chiếu (IVUS, EEM)", "text": "3.25 mm — chênh lệch đáng kể so với angio" }
+    ],
+    "notes": "Case kinh điển minh họa xu hướng đánh giá thấp đường kính mạch máu khi chỉ dựa vào angio."
+  }
+]

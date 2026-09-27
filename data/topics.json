@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "than-chung",
+    "title": "Thân chung",
+    "description": "Đánh giá và can thiệp sang thương thân chung động mạch vành trái qua IVUS."
+  },
+  {
+    "slug": "tai-hep-trong-stent",
+    "title": "Tái hẹp trong stent",
+    "description": "Phân biệt cơ chế tái hẹp: tăng sinh mô nội mạc, stent giãn dưới mức, gãy stent."
+  },
+  {
+    "slug": "calci-hoa",
+    "title": "Calci hóa",
+    "description": "Đo cung và độ dày calci hóa để chọn chiến lược chuẩn bị sang thương."
+  },
+  {
+    "slug": "mang-xo-vua-khong-on-dinh",
+    "title": "Mảng xơ vữa không ổn định",
+    "description": "Nhận diện đặc điểm mảng xơ vữa nguy cơ cao trên IVUS và NIRS."
+  },
+  {
+    "slug": "cho-chia-doi",
+    "title": "Chỗ chia đôi",
+    "description": "Chiến lược một stent hay hai stent dựa trên hình thái chia đôi qua IVUS."
+  },
+  {
+    "slug": "cto",
+    "title": "CTO",
+    "description": "Vai trò của IVUS trong tái thông tắc mạn tính động mạch vành."
+  },
+  {
+    "slug": "kich-thuoc-stent",
+    "title": "Kích thước stent",
+    "description": "Chọn đường kính và chiều dài stent theo đo đạc IVUS thay vì ước lượng bằng mắt."
+  }
+]
